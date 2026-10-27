@@ -39,8 +39,8 @@ Bu araç sayesinde:
 ### 1. Kurulum
 
 ```bash
-git clone https://github.com/eimza-kep/tr-sanalpos-webhook-simulator.git
-cd tr-sanalpos-webhook-simulator
+git clone https://github.com/eimza-kep/turkiye-sanalpos-webhook-simulator.git
+cd turkiye-sanalpos-webhook-simulator
 ```
 
 ### 2. Komut Satırı Kullanımı
